@@ -1,0 +1,62 @@
+/* Hello World CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background: url("StoneWallTexture.jpg");
+  background-size: cover;
+  font-size: 18px;
+  height: 100vh; /* trick to make the "page" the full height */
+}
+
+p {
+    font-size: 4em;
+    color: #ffffff;
+}
+
+h1 {
+  font-size: 3em;
+  color: #ffffff;
+}
+
+#l-angle {
+    color: #ffffff;
+    font-size: 5em;
+}
+
+#smile {
+  color: #ffffff;
+  font-size: 5em;
+}
+
+#r-angle {
+  color: #ffffff;
+  font-size: 5em;
+}
+
+img {
+  width:100%;
+  height:auto
+}
+
+#paint {
+  border-radius: 10px;
+  border: 5px solid tan;
+}
+
+#glass {
+  border-radius: 85%;
+  border: 5px solid blue;
+}
+
+#scary {
+  border-style: dotted;
+  border: 2px black;
+}
+
+#sunset {
+  border-style:groove;
+  border: 2px purple;
+}
+
+.row {}
